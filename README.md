@@ -11,7 +11,7 @@ Probably it is good practice to create seaprated partition for /tmp /var /usr an
 * noexec /tmp
 * noexec /var
 * ro /usr
-* ro /boot;"};
+* ro /boot
 
 During apt installation you should have more permission for /temp /var /usr and /boot. This modules enables this during apt installation and switch things back after installation.
 
