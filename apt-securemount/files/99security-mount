@@ -1,0 +1,2 @@
+DPkg::Pre-Invoke {"mount -o remount,exec /tmp ; mount -o remount,exec /var ; mount -o remount,rw /usr; mount -o remount,rw /boot;"};
+DPkg::Post-Invoke {"mount -o remount,noexec /tmp; mount -o remount,noexec /var; mount -o remount,ro /usr; mount -o remount,ro /boot;"};
