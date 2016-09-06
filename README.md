@@ -19,3 +19,7 @@ During apt installation you should have more permission for /temp /var /usr and 
 
 A few must have tools for systam administrtion.
 
+### jdk7
+
+Java Developer Kit 7 installation module based on webupd8 installer for DEB package based systems.
+
