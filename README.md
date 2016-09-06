@@ -15,6 +15,7 @@ Probably it is good practice to create seaprated partition for /tmp /var /usr an
 
 During apt installation you should have more permission for /temp /var /usr and /boot. This modules enables this during apt installation and switch things back after installation.
 
+### favoritetools
 
-
+A few must have tools for systam administrtion.
 
