@@ -23,3 +23,6 @@ A few must have tools for systam administrtion.
 
 Java Developer Kit 7 installation module based on webupd8 installer for DEB package based systems.
 
+### ntp
+
+Setting up an NTP server as client
