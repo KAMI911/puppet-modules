@@ -25,4 +25,9 @@ Java Developer Kit 7 installation module based on webupd8 installer for DEB pack
 
 ### ntp
 
-Setting up an NTP server as client
+Setting up an NTP server as client.
+
+### sysctl-performance
+
+Kernel parameter tuning for better performance.
+
